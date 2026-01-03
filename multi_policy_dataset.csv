@@ -1,0 +1,5 @@
+policy_id,customer_id,policy_type,coverage,premium
+P001,CUST1001,Health,health,12000
+P002,CUST1001,Vehicle,vehicle,8000
+P003,CUST1001,Life,"life,health",10000
+P004,CUST2002,Home,home,9000
